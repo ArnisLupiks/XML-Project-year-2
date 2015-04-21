@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<shop>
+	<products webvendor="full" id="conners">		
+			<product_name>Guitars</product_name>
+                        <advertisement>
+                               <ad_sentence>
+                                We offer you the best prises for you for guitars this month.<br />  <b>Don't miss this oportunity!</b>  
+                                </ad_sentence>
+                        </advertisement>
+				<guitar>
+					<product_id>G001</product_id>
+					<name>somename</name>
+					<model_name>dfg</model_name>
+                                        <type>classic</type>
+					<price pricetype="sale">$120</price>
+                                        <price pricetype="retail">$170</price>
+                                        <color>black</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="black" location="warehouse">12</inventory>
+                                        <inventory color="red" location="display_area">5</inventory>
+                                       	<warranty>1 year</warranty>
+				</guitar>
+                                <guitar>
+					<product_id>G002</product_id>
+					<name>Almeria CG 390</name>
+					<model_name>CG 390</model_name>
+                                        <type>classic</type>
+					<price pricetype="sale">$60</price>
+                                        <price pricetype="retail">$110</price>
+                                        <color>black</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Almeria CG 390.jpg</image>
+                                        <display_image>Almeria CG 390.jpg</display_image>
+                                       	<warranty>1 year</warranty>
+				</guitar>
+                                 <guitar>
+					<product_id>G003</product_id>
+					<name>Almeria</name>
+					<model_name>C 36</model_name>
+                                        <type>classic</type>
+					<price pricetype="sale">$39.00</price>
+                                        <price pricetype="retail">$50.00</price>
+                                        <color>Classic</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag + Tuner</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Almeria C 36.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</guitar>
+                                 <guitar>
+					<product_id>G004</product_id>
+					<name>Fame</name>
+					<model_name>Modell 2a</model_name>
+                                        <type>classic</type>
+					<price pricetype="sale">$215.00</price>
+                                        <price pricetype="retail">$225.00</price>
+                                        <color>Pino</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag + Tuner</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Fame Modell 2a.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</guitar>
+                                 <guitar>
+					<product_id>G005</product_id>
+					<name>Ibanez</name>
+					<model_name>Jumpstart GSA 6</model_name>
+                                        <type>electric</type>
+					<price pricetype="sale">$215.00</price>
+                                        <price pricetype="retail">$225.00</price>
+                                        <color>Black Night</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag + Tuner + Loudspeaker</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Ibanez Jumpstart GSA 6.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</guitar>
+                                 <guitar>
+					<product_id>G007</product_id>
+					<name>Ibanez</name>
+					<model_name>Amber Burs</model_name>
+                                        <type>electric</type>
+					<price pricetype="sale">$399.00</price>
+                                        <price pricetype="retail">$419.00</price>
+                                        <color>Flamed Maple</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Ibanez Amber Burs.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</guitar>
+                                <guitar>
+					<product_id>G008</product_id>
+					<name>Fendrer</name>
+					<model_name>Squier Bullet</model_name>
+                                        <type>electric</type>
+					<price pricetype="sale">$99.00</price>
+                                        <price pricetype="retail">$119.00</price>
+                                        <color>Sunburst</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Fendrer Squier Bullet.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</guitar>
+                                 <guitar>
+					<product_id>G009</product_id>
+					<name>Fendrer</name>
+					<model_name>Vintage Hot Rod</model_name>
+                                        <type>electric</type>
+					<price pricetype="sale">$1,899.00</price>
+                                        <price pricetype="retail">$2,119.00</price>
+                                        <color>Butterscotch Blonde</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Fendrer Vintage Hot Rod.jpg</image>
+                                       	<warranty>2 year</warranty>
+				</guitar>
+                                <guitar>
+					<product_id>G010</product_id>
+					<name>Ibanez</name>
+					<model_name>Jumpstart GRRA 6</model_name>
+                                        <type>electric</type>
+					<price pricetype="sale">$299.00</price>
+                                        <price pricetype="retail">$319.00</price>
+                                        <color>Butterscotch Black</color>
+					<set_discr>Guitar</set_discr>
+                                        <giveaway_item>Bag + Tuner + Loudspeaker</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Ibanez Jumpstart GRRA 6.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</guitar>								
+                        </products>
+                        <products>
+                             <product_name>Basses</product_name>
+                             <advertisement>
+                               <ad_sentence>
+                                                               We offer you the best prises for you for basses this month.<br />  <b>Don't miss this oportunity!</b>  
+
+                                </ad_sentence>
+                             </advertisement>
+                                 <basses>
+					<product_id>BG001</product_id>
+					<name>Rockson</name>
+					<model_name>R-PB66</model_name>
+                                        <type>electronic</type>
+					<price pricetype="sale">$77</price>
+                                        <price pricetype="retail">$120</price>
+                                        <color>black and White</color>
+					<set_discr>4_string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="black" location="warehouse">6</inventory>
+                                        <inventory color="red" location="warehouse">5</inventory>
+                                        <inventory color="black" location="display_area">2</inventory>
+                                        <inventory color="green" location="warehouse">6</inventory>
+                                        <image>Rockson R-PB66.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                 <basses>
+					<product_id>BG002</product_id>
+					<name>Warwick</name>
+					<model_name>PS Corvette Std</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$770</price>
+                                        <price pricetype="retail">$1,120</price>
+                                        <color>Coloured Oil Nirvana Black</color>
+					<set_discr>4_string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Nirvana Black" location="warehouse">6</inventory>
+                                        <inventory color="Nirvana Red" location="warehouse">5</inventory>
+                                        <inventory color="Nirvana Green" location="display_area">2</inventory>
+                                        <inventory color="Nirvana Grey" location="warehouse">6</inventory>
+                                        <image>Warwick PS Corvette Std.jpg</image>
+                                       	<warranty>2 year</warranty>
+				</basses>
+                                 <basses>
+					<product_id>BG003</product_id>
+					<name>Jack and Danny</name>
+					<model_name>YC-200</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$110</price>
+                                        <price pricetype="retail">$160</price>
+                                        <color>Black</color>
+					<set_discr>4 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <inventory color="Grey" location="warehouse">6</inventory>
+                                        <image>Jack and Danny YC-200.gif</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                <basses>
+					<product_id>BG004</product_id>
+					<name>Jack and Danny</name>
+					<model_name>YC-200</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$129</price>
+                                        <price pricetype="retail">$169</price>
+                                        <color>Black</color>
+					<set_discr>5 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <inventory color="Grey" location="warehouse">6</inventory>
+                                        <image>Jack and Danny YC-200.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                <basses>
+					<product_id>BG005</product_id>
+					<name>Fame</name>
+					<model_name>Baphomet Lefthand</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$429</price>
+                                        <price pricetype="retail">$699</price>
+                                        <color>Tone Sunburst</color>
+					<set_discr>5 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <inventory color="Grey" location="warehouse">6</inventory>
+                                        <image>Fame Baphomet Lefthand.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                <basses>
+					<product_id>BG006</product_id>
+					<name>Peavey Grind</name>
+					<model_name>Bass BXP</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$329</price>
+                                        <price pricetype="retail">$419</price>
+                                        <color>Tone Sunburst</color>
+					<set_discr>6 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <inventory color="Grey" location="warehouse">6</inventory>
+                                        <image>Peavey Grind Bass BXP.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                <basses>
+					<product_id>BG007</product_id>
+					<name>Jack and Danny</name>
+					<model_name>ABG-1C</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$129</price>
+                                        <price pricetype="retail">$149</price>
+                                        <color>Natural</color>
+					<set_discr>4 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <inventory color="Grey" location="warehouse">6</inventory>
+                                        <image>Jack and Danny ABG-1C.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                 <basses>
+					<product_id>BG008</product_id>
+					<name>Ortega</name>
+					<model_name>D-Walker-BK</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$289</price>
+                                        <price pricetype="retail">$369</price>
+                                        <color>Black</color>
+					<set_discr>4 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <inventory color="Grey" location="warehouse">6</inventory>
+                                        <image>Ortega D-Walker-BK.png</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                <basses>
+					<product_id>BG009</product_id>
+					<name>Mayones</name>
+					<model_name>Patriot Classic</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$2,189</price>
+                                        <price pricetype="retail">$2,269</price>
+                                        <color>Zebra</color>
+					<set_discr>5 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <inventory color="Grey" location="warehouse">6</inventory>
+                                        <image>Mayones Patriot Classic.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                <basses>
+					<product_id>BG010</product_id>
+					<name>Godin</name>
+					<model_name>Ultra Fretted</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$1,299</price>
+                                        <price pricetype="retail">$1,769</price>
+                                        <color>Natural Semi-Gloss</color>
+					<set_discr>5 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Black" location="warehouse">6</inventory>
+                                        <inventory color="Red" location="warehouse">5</inventory>
+                                        <inventory color="Green" location="display_area">2</inventory>
+                                        <image>Godin Ultra Fretted.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                                <basses>
+					<product_id>BG011</product_id>
+					<name>Epiphone</name>
+					<model_name>Zenith Bass</model_name>
+                                        <type>electronic</type>
+                                        <price pricetype="sale">$499</price>
+                                        <price pricetype="retail">$569</price>
+                                        <color>Antique Natural</color>
+					<set_discr>4 string</set_discr>
+                                        <giveaway_item>Free guitar bag</giveaway_item>
+                                        <inventory color="Antique Black" location="warehouse">6</inventory>
+                                        <inventory color="Antique Red" location="warehouse">5</inventory>
+                                        <inventory color="Antique Green" location="display_area">2</inventory>
+                                        <image>Epiphone Zenith Bass.jpg</image>
+                                       	<warranty>1 year</warranty>
+				</basses>
+                        </products>
+                        <products>
+                            <product_name>Synthesizer</product_name>
+                                <advertisement>
+                                    <ad_sentence>
+                                                                     We offer you the best prises for you for Synthesizer this month.<br />  <b>Don't miss this oportunity!</b>  
+
+                                     </ad_sentence>
+				</advertisement>
+                                 <synthesizer>
+					<product_id>SY001</product_id>
+					<name>Roland</name>
+					<model_name>Juno Di</model_name>
+                                        <type>digital</type>
+					<price pricetype="sale">$599.99</price>
+                                        <price pricetype="retail">$679</price>
+                                        <color>black</color>
+					<set_discr>61 keys</set_discr>
+                                        <voices>128</voices>
+                                        <instruments_onboard>1,000</instruments_onboard>
+                                        <weight>5.2kg</weight>
+                                        <giveaway_item>songbook holder</giveaway_item>
+                                        <inventory color="black" location="warehouse">2</inventory>
+                                        <warranty>3 years</warranty>
+                                        <image>Rockson Juno Di.jpg</image>
+                                  </synthesizer>
+                                  <synthesizer>
+					<product_id>SY002</product_id>
+					<name>Korg</name>
+					<model_name>X-50</model_name>
+                                        <type>digital</type>
+					<price pricetype="sale">$519.99</price>
+                                        <price pricetype="retail">$599</price>
+                                        <color>black</color>
+					<set_discr>61 keys</set_discr>
+                                        <voices>384</voices>
+                                        <instruments_onboard>512</instruments_onboard>
+                                        <weight>4.5kg</weight>
+                                        <giveaway_item>songbook holder</giveaway_item>
+                                        <inventory color="black" location="warehouse">2</inventory>
+                                        <warranty>3 years</warranty>
+                                        <image>Korg X-50.jpg</image>
+                                  </synthesizer>
+                                  <synthesizer>
+					<product_id>SY003</product_id>
+					<name>Yamaha</name>
+					<model_name>MM6</model_name>
+                                        <type>digital</type>
+					<price pricetype="sale">$399.99</price>
+                                        <price pricetype="retail">$444</price>
+                                        <color>black</color>
+					<set_discr>61 keys</set_discr>
+                                        <voices>430</voices>
+                                        <instruments_onboard>512</instruments_onboard>
+                                        <weight>5kg</weight>
+                                        <giveaway_item>songbook holder</giveaway_item>
+                                        <inventory color="black" location="warehouse">2</inventory>
+                                        <warranty>3 years</warranty>
+                                        <image>Yamaha MM6.jpg</image>
+                                  </synthesizer>
+                        </products>
+                        <products>
+                        <product_name>Drums</product_name>
+                        <advertisement>
+                               <ad_sentence>
+                                 We offer you the best prises for you for Drums this month.<br />  <b>Don't miss this oportunity!</b>  
+                                </ad_sentence>
+                        </advertisement>
+                                 <drum>
+					<product_id>DR001</product_id>
+					<name>Mapex Meridian</name>
+					<model_name>Birch Special Shell Set</model_name>
+                                        <set_discr>Bass drum + Hoops + Snare drum +</set_discr>
+                                        <type>Acoustic drum</type>
+                                        <price pricetype="sale">$559.99</price>
+                                        <price pricetype="retail">$599</price>
+                                        <color>Transparent Red</color>
+					<size>16</size>
+                                        <giveaway_item>Notebook holder</giveaway_item>
+                                        <inventory color="black" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Mapex Meridian Birch Special Shell Set.jpg</image>
+                                  </drum>
+                                  <drum>
+					<product_id>DR002</product_id>
+					<name>Fame</name>
+					<model_name>Maple</model_name>
+                                        <set_discr>Bass drum</set_discr>
+                                        <type>Acoustic drum</type>
+                                        <price pricetype="sale">$119.99</price>
+                                        <price pricetype="retail">$139</price>
+                                        <color>White Black</color>
+					<size>16</size>
+                                        <giveaway_item>Drum sticks</giveaway_item>
+                                        <inventory color="black" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Fame Maple.jpg</image>
+                                  </drum>
+                                  <drum>
+					<product_id>DR003</product_id>
+					<name>Yamaha</name>
+					<model_name>Club Custom BassDrum</model_name>
+                                        <set_discr>Bass drum</set_discr>
+                                        <type>Acoustic drum</type>
+                                        <price pricetype="sale">$1,119.99</price>
+                                        <price pricetype="retail">$1,187</price>
+                                        <color>Black</color>
+					<size>15</size>
+                                        <giveaway_item>Drum sticks</giveaway_item>
+                                        <inventory color="black" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Yamaha Club Custom BassDrum.jpg</image>
+                                  </drum>
+                                  <drum>
+					<product_id>DR004</product_id>
+					<name>Mapex</name>
+					<model_name>Black Panther</model_name>
+                                        <set_discr>Snare Drum special edition</set_discr>
+                                        <type>Acoustic drum</type>
+                                        <price pricetype="sale">$389.99</price>
+                                        <price pricetype="retail">$402</price>
+                                        <color>Flat Black</color>
+					<size>16</size>
+                                        <giveaway_item>Drum sticks</giveaway_item>
+                                        <inventory color="black" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Mapex Black Panther.JPG</image>
+                                  </drum>
+                                   <drum>
+					<product_id>DR005</product_id>
+					<name>Yamaha</name>
+					<model_name>SD2055</model_name>
+                                        <set_discr>Snare Drum special edition</set_discr>
+                                        <type>Acoustic drum</type>
+                                        <price pricetype="sale">$149.99</price>
+                                        <price pricetype="retail">$189</price>
+                                        <color>Silver</color>
+					<size>10</size>
+                                        <giveaway_item>Drum sticks</giveaway_item>
+                                        <inventory color="silver" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Yamaha SD2055.jpg</image>
+                                  </drum>
+                                  <drum>
+					<product_id>DR006</product_id>
+					<name>Fame</name>
+					<model_name>Starter HIHat</model_name>
+                                        <set_discr>HiHAt</set_discr>
+                                        <type>cymbals</type>
+                                        <price pricetype="sale">$49.99</price>
+                                        <price pricetype="retail">$53</price>
+                                        <color>Gold</color>
+					<size>14</size>
+                                        <giveaway_item>Drum sticks</giveaway_item>
+                                        <inventory color="silver" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Fame Starter HIHat.jpg</image>
+                                  </drum>
+                                   <drum>
+					<product_id>DR007</product_id>
+					<name>Paiste</name>
+					<model_name>101 Bass Ride</model_name>
+                                        <set_discr>HiHAt</set_discr>
+                                        <type>cymbals</type>
+                                        <price pricetype="sale">$69.99</price>
+                                        <price pricetype="retail">$88</price>
+                                        <color>Gold</color>
+					<size>20</size>
+                                        <giveaway_item>Drum sticks</giveaway_item>
+                                        <inventory color="silver" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Paiste 101 Bass Ride.jpg</image>
+                                  </drum>
+                                   <drum>
+					<product_id>DR008</product_id>
+					<name>Meinl</name>
+					<model_name>HCS</model_name>
+                                        <set_discr>HiHAt</set_discr>
+                                        <type>cymbals</type>
+                                        <price pricetype="sale">$39.99</price>
+                                        <price pricetype="retail">$42</price>
+                                        <color>Gold</color>
+					<size>14</size>
+                                        <giveaway_item>Drum sticks</giveaway_item>
+                                        <inventory color="silver" location="warehouse">2</inventory>
+                                        <warranty>1 years</warranty>
+                                        <image>Meinl HCS.jpg</image>
+                                  </drum>
+                </products>
+                <products>
+                        <product_name>SongBooks</product_name>
+                        <advertisement>
+                               <ad_sentence>
+                                   We offer you the best prises for you for Songbooks this month.<br />  <b>Don't miss this oportunity!</b>  
+                                </ad_sentence>
+                        </advertisement>
+                                <songbook>
+                                        <product_id>BS001</product_id>
+                                        <artist>Elliott Smith</artist>
+					<album>Either/Or</album>
+					<genre>Indie Folk</genre>
+                                        <instrument>Guitar</instrument>
+                                        <author>Fred Sokolow</author>
+					<price pricetype="sale">$9.99</price>
+                                        <price pricetype="retail">$15</price>
+                                        <skill_level>Advnaced</skill_level>
+                                        <year>1996</year>
+                                        <image>eitheror.jpg</image>
+                                </songbook>
+                                <songbook>
+                                        <product_id>BS002</product_id>
+                                        <artist>Frank Black</artist>
+					<album>Teenager of the Year</album>
+					<genre>Alternative Rock</genre>
+                                        <instrument>Guitar</instrument>
+                                        <author>Lyle Workman</author>
+					<price pricetype="sale">$5.99</price>
+                                        <price pricetype="retail">$11.50</price>
+                                        <skill_level>Novice</skill_level>
+                                        <year>1994</year>
+                                        <image>teenageroftheyear.jpg</image>
+                                </songbook>
+                                <songbook>
+                                        <product_id>BS003</product_id>
+                                        <artist>Nirvana</artist>
+					<album>Nevermind</album>
+					<genre>Grunge</genre>
+                                        <instrument>Guitar</instrument>
+                                        <author>Hal Leonard</author>
+					<price pricetype="sale">$12.99</price>
+                                        <price pricetype="retail">$14.99</price>
+                                        <skill_level>Beginner</skill_level>
+                                        <year>1991</year>
+                                        <image>nevermind.jpg</image>
+                                </songbook>
+                                <songbook>
+                                        <product_id>BS004</product_id>
+                                        <artist>The Beatles</artist>
+					<album>Revolver</album>
+					<genre>Classic Rock</genre>
+                                        <instrument>Piano</instrument>
+                                        <author>Hal Leonard</author>
+					<price pricetype="sale">$9.99</price>
+                                        <price pricetype="retail">$10.99</price>
+                                        <skill_level>Advanced</skill_level>
+                                        <year>1966</year>
+                                        <image>Revolver.jpg</image>
+                                </songbook>
+                                 <songbook>
+                                        <product_id>BS005</product_id>
+                                        <artist>Pavement</artist>
+					<album>Crooked Rain Crooked Rain</album>
+					<genre>Lo-Fi</genre>
+                                        <instrument>Guitar</instrument>
+                                        <author>Lyle Workman</author>
+					<price pricetype="sale">$11.99</price>
+                                        <price pricetype="retail">$13.99</price>
+                                        <skill_level>Advanced</skill_level>
+                                        <year>1994</year>
+                                        <image>crookedraincrookedrain.jpg</image>
+                                </songbook>
+                                <songbook>
+                                        <product_id>BS006</product_id>
+                                        <artist>Smashing Pumpkins</artist>
+					<album>Siamese Dream</album>
+					<genre>Alternative Rock</genre>
+                                        <instrument>Guitar</instrument>
+                                        <author>Fred Sokolow</author>
+					<price pricetype="sale">$12.99</price>
+                                        <price pricetype="retail">$13.99</price>
+                                        <skill_level>Advanced</skill_level>
+                                        <year>1993</year>
+                                        <image>smashingpumpkins.jpg</image>
+                                </songbook>
+                </products>
+		<products>
+			<product_name>CD's</product_name>
+                        <advertisement>
+                               <ad_sentence>
+                                   We offer you the best prises for you for Cd's this month.<br />  <b>Don't miss this oportunity!</b>  
+                                </ad_sentence>
+                        </advertisement>
+				<cds>
+                                        <product_id>CD001</product_id>
+                                        <artist>Blur</artist>
+					<album>Parklife</album>
+					<genre>BritPop</genre>
+                                        <company>Columbia</company>
+					<price pricetype="sale">$9.99</price>
+                                        <price pricetype="retail">$15</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <descr>Steven Paul "Elliott" Smith (August 6, 1969 - October 21, 2003)
+					was an American singer-songwriter</descr>
+                                       
+				</cds>
+                                <cds>
+                                        <product_id>CD002</product_id>
+                                        <artist>Frank Black</artist>
+					<album>Teenager of the Year</album>
+					<genre>Alternative Rock</genre>
+                                        <company>Geffen</company>
+					<price pricetype="sale">$5.99</price>
+                                        <price pricetype="retail">$11.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1994</year>
+                                        <descr> Black Francis (born Charles Michael Kittridge Thompson IV[1] on April 6, 1965)
+						is an American singer, songwriter and guitarist. He is best known as the
+						frontman of the influential
+                                                alternative rock band Pixies, with whom he performs under the stage name Black Francis
+                                        </descr>
+                                       
+				</cds>
+                                <cds>
+                                        <product_id>CD003</product_id>
+                                        <artist>Nirvana</artist>
+					<album>Nevermind</album>
+					<genre>Grunge</genre>
+                                        <company>Geffen</company>
+					<price pricetype="sale">$12.99</price>
+                                        <price pricetype="retail">$14.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1991</year>
+                                        <image>nevermind.jpg</image>
+                                        <descr>Nirvana was an American rock band that was formed by singer/guitarist Kurt Cobain and
+                                               bassist Krist Novoselic in Aberdeen, Washington in 1987.
+                                        </descr>
+                                       
+				</cds> 
+                                 <cds>
+                                        <product_id>CD004</product_id>
+                                        <artist>The Beatles</artist>
+					<album>Revolver</album>
+					<genre>Classic Rock</genre>
+                                        <company>Paralophone</company>
+					<price pricetype="sale">$9.99</price>
+                                        <price pricetype="retail">$13.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1966</year>
+                                        <image>Revolver.jpg</image>
+                                       	<descr>If you don`t know who the Beatles are you should be shot.</descr>
+
+				</cds>  
+                                 <cds>
+                                        <product_id>CD005</product_id>
+                                        <artist>Pavement</artist>
+					<album>Crooked Rain Crooked Rain</album>
+					<genre>Classic Rock</genre>
+                                        <company>Lo-Fi</company>
+					<price pricetype="sale">$11.99</price>
+                                        <price pricetype="retail">$15.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1994</year>
+                                        <image>crookedraincrookedrain.jpg</image>
+                                        <descr>Pavement was an American indie rock band that formed in Stockton, California in 1989.
+						The group mainly consisted of Stephen Malkmus (vocals and guitar), Scott Kannberg (guitar and vocals),
+						Mark Ibold (bass), Steve West (drums) and Bob Nastanovich (percussion and vocals). Initially conceived
+						as a recording project, the band at first avoided press or live performances, while attracting considerable
+					underground attention with their early releases</descr>
+				</cds>
+                                 <cds>
+                                        <product_id>CD006</product_id>
+                                        <artist>Smashing Pumpkins</artist>
+					<album>Siamese Dream</album>
+					<genre>Alternative Rock</genre>
+                                        <company>Geffen</company>
+					<price pricetype="sale">$12.99</price>
+                                        <price pricetype="retail">$15.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1993</year>
+                                        <image>smashing-pumpkins-3.jpg</image>
+                                        <descr>The Smashing Pumpkins are an American alternative rock band from Chicago, Illinois, formed in 1988.
+						[1] Formed by frontman Billy Corgan (lead vocals, lead guitar) and James Iha (rhythm guitar), the band has included
+						Jimmy Chamberlin (drums), D'arcy Wretzky (bass guitar), Melissa Auf der Maur (bass guitar), and currently includes
+					Mike Byrne (drums), Nicole Fiorentino (bass guitar, backing vocals), and Jeff Schroeder (rhythm guitar) among its membership
+                                        </descr>
+                                       
+				</cds>
+                                 <cds>
+                                        <product_id>CD007</product_id>
+                                        <artist>Blur</artist>
+					<album>Parklife</album>
+					<genre>BritPop</genre>
+                                        <company>Columbia</company>
+					<price pricetype="sale">$9.99</price>
+                                        <price pricetype="retail">$13.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1996</year>
+                                        <image>Parklife.png</image>
+                                       
+				</cds>
+                                 <cds>
+                                        <product_id>CD008</product_id>
+                                        <artist>Frank Black</artist>
+					<album>Teenager of the Year</album>
+					<genre>Alternative Rock</genre>
+                                        <company>Geffen</company>
+					<price pricetype="sale">$5.99</price>
+                                        <price pricetype="retail">$11.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1994</year>
+                                        <image>teenageroftheyear.jpg</image>
+				</cds>
+                                 <cds>
+                                        <product_id>CD009</product_id>
+                                        <artist>Nirvana</artist>
+					<album>Nevermind</album>
+					<genre>Grunge</genre>
+                                        <company>Geffen</company>
+					<price pricetype="sale">$12.99</price>
+                                        <price pricetype="retail">$14.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1991</year>
+                                        <image>nevermind.jpg</image>
+
+                                       
+				</cds>
+                                 <cds>
+                                        <product_id>CD010</product_id>
+                                        <artist>The Beatles</artist>
+					<album>Revolver</album>
+					<genre>Classic Rock</genre>
+                                        <company>Paralophone</company>
+					<price pricetype="sale">$9.99</price>
+                                        <price pricetype="retail">$14.00</price>
+                                        <giveaway_item>Poster</giveaway_item>
+                                        <year>1966</year>
+                                        <image>Revolver.jpg</image>
+
+                                       
+				</cds>
+                  
+		</products>
+		<products>
+			<product_name>Headphones</product_name>
+                        <advertisement>
+                               <ad_sentence>
+                                               We offer you the best prises for you for Headphones this month.<br />  <b>Don't miss this oportunity!</b>  
+                                </ad_sentence>
+                        </advertisement>
+                            <headphones>
+                                        <product_id>HDP001</product_id>
+					<name>Fame</name>
+					<model_name>MDR-V950</model_name>
+                                        <type>WiFI</type>
+					<price pricetype="sale">$19.99</price>
+                                        <price pricetype="retail">$29</price>
+                                        <color>silver</color>
+                                        <cable_length>3 meters</cable_length>
+					<image>fame v950.png</image>                                 
+                                        <warranty>1 years</warranty>
+                             </headphones>
+                             <headphones>
+                                        <product_id>HDP002</product_id>
+					<name>Yamaha</name>
+					<model_name>HPE-170</model_name>
+                                        <type>WiFI</type>
+					<price pricetype="sale">$69.99</price>
+                                        <price pricetype="retail">$88</price>
+                                        <color>Black</color>
+                                        <cable_length>3 meters</cable_length>
+					<image>Yamaha HPE-170.jpg</image>                                 
+                                        <warranty>1 years</warranty>
+                             </headphones>
+                              <headphones>
+                                        <product_id>HDP003</product_id>
+					<name>JVC</name>
+					<model_name>HA-RX 900</model_name>
+                                        <type>DJ headphones</type>
+					<price pricetype="sale">$59.99</price>
+                                        <price pricetype="retail">$69</price>
+                                        <color>Grey</color>
+                                        <cable_length>3,5 meters</cable_length>
+					<image>JVC HA-RX 900.jpg</image>                                 
+                                        <warranty>1 years</warranty>
+                             </headphones>
+                             <headphones>
+                                        <product_id>HDP004</product_id>
+					<name>Sony</name>
+					<model_name>MDR-7506</model_name>
+                                        <type>STUDIO headphones</type>
+					<price pricetype="sale">$59.99</price>
+                                        <price pricetype="retail">$69</price>
+                                        <color>Black</color>
+                                        <cable_length>4 meters</cable_length>
+					<image>sony mdr-7506.jpg</image>                                 
+                                        <warranty>2 years</warranty>
+                             </headphones>
+                             <headphones>
+                                        <product_id>HDP005</product_id>
+					<name>Audio Technica</name>
+					<model_name>ATH D-40</model_name>
+                                        <type>STUDIO headphones</type>
+					<price pricetype="sale">$75.99</price>
+                                        <price pricetype="retail">$79</price>
+                                        <color>Black</color>
+                                        <cable_length>4 meters</cable_length>
+					<image>Audio Technica ATH D-40.jpg</image>                                 
+                                        <warranty>2 years</warranty>
+                             </headphones>
+                             <headphones>
+                                        <product_id>HDP006</product_id>
+					<name>Beyerdynamic</name>
+					<model_name>DT 880 Pro</model_name>
+                                        <type>STUDIO headphones</type>
+					<price pricetype="sale">$265.99</price>
+                                        <price pricetype="retail">$279</price>
+                                        <color>Grey</color>
+                                        <cable_length>5 meters</cable_length>
+					<image>beyerdynamic dt 880 pro.jpg</image>                                 
+                                        <warranty>3 years</warranty>
+                             </headphones>
+		    </products>
+                    <products>
+			<product_name>Cables</product_name>
+                        <advertisement>
+                               <ad_sentence>
+                                             We offer you the best prises for you for cables this month.<br />  <b>Don't miss this oportunity!</b>  
+
+                                </ad_sentence>
+                        </advertisement>
+                            <cable>
+                                        <product_id>CBL001</product_id>
+					<name>Online Musicain</name>
+					<length>6 meters</length>
+                                        <connections>6,3mm male to male</connections>
+					<price pricetype="sale">$2.99</price>
+                                        <price pricetype="retail">$4</price>
+                                        <color>black</color>
+                            </cable>
+                            <cable>
+                                        <product_id>CBL002</product_id>
+					<name>Online Musicain</name>
+					<length>6 meters</length>
+                                        <connections>6,3mm male to male</connections>
+					<price pricetype="sale">$3.59</price>
+                                        <price pricetype="retail">$4</price>
+                                        <color>black</color>
+                            </cable>
+                            <cable>
+                                        <product_id>CBL003</product_id>
+					<name>Online Musicain</name>
+					<length>9 meters</length>
+                                        <connections>6,3mm male to male</connections>
+					<price pricetype="sale">$4.59</price>
+                                        <price pricetype="retail">$5</price>
+                                        <color>black</color>
+                            </cable>
+                            <cable>
+                                        <product_id>CBL004</product_id>
+					<name>Cordial</name>
+					<length>6 meters</length>
+                                        <connections>6,3mm male to male</connections>
+					<price pricetype="sale">$11.59</price>
+                                        <price pricetype="retail">$13</price>
+                                        <color>black</color>
+                            </cable>
+                            <cable>
+                                        <product_id>CBL005</product_id>
+					<name>Online Musicain</name>
+					<length>6 meters</length>
+                                        <connections>6,3mm male to male</connections>
+					<price pricetype="sale">$6.59</price>
+                                        <price pricetype="retail">$7</price>
+                                        <color>Vintage design</color>
+                            </cable>
+                             <cable>
+                                        <product_id>CBL006</product_id>
+					<name>Online Musicain</name>
+					<length>6 meters exending to 9 meters</length>
+                                        <connections>6,3mm male to male</connections>
+					<price pricetype="sale">$7.99</price>
+                                        <price pricetype="retail">$9.50</price>
+                                        <color>Black</color>
+                            </cable>
+                             <cable>
+                                        <product_id>CBL007</product_id>
+					<name>Online Musicain</name>
+					<length>10 meters</length>
+                                        <connections>XLR male to female</connections>
+					<price pricetype="sale">$5.59</price>
+                                        <price pricetype="retail">$6.50</price>
+                                        <color>Black</color>
+                            </cable>
+                             <cable>
+                                        <product_id>CBL008</product_id>
+					<name>Online Musicain</name>
+					<length>1 meters</length>
+                                        <connections>XLR male to female</connections>
+					<price pricetype="sale">$5.59</price>
+                                        <price pricetype="retail">$6.50</price>
+                                        <color>Vintage design</color>
+                            </cable>
+        </products>
+         <special>This weekis specialoffer week!! Don't be late!!
+	</special>
+</shop>
+	
